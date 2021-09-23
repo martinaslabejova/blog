@@ -1,7 +1,7 @@
 baseURL = "https://martinaslabejova.github.io/blog/"
 languageCode = "en-us"
 title = "Welcome to my frist blog!"
-theme = "hugo-theme-massively"
+theme = "hugo-theme-massively-2"
 publishDir = "docs"
 googleanalytics = ""
 disqusShortname = ""
